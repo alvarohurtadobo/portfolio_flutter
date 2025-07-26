@@ -1,11 +1,11 @@
 {
-    "name": "Aladdine Abdou",
-    "description": "Mobile App Developer",
-    "subDescription": "Flutter & Python Enthusiast",
+    "name": "Alvaro Hurtado",
+    "description": "Full Stack Developer",
+    "subDescription": "Electronics Engineer",
     "contacts": [
         {
             "tooltip": "Github",
-            "url": "https://github.com/AladdineDev",
+            "url": "https://github.com/alvarohurtadobo",
             "icon": {
                 "codePoint": "0xefb7",
                 "fontFamily": "FontAwesome"
@@ -13,7 +13,7 @@
         },
         {
             "tooltip": "Twitter",
-            "url": "https://twitter.com/AladdineDev",
+            "url": "https://twitter.com/alvarohurtadobo",
             "icon": {
                 "codePoint": "0xf0ea",
                 "fontFamily": "FontAwesome"
@@ -50,14 +50,14 @@
             "url": "https://drive.google.com/file/d/1grh7cajOEiqXWx__dawOwq9WgGLb4mbn/view?usp=sharing"
         },
         {
-            "languageCode": "fr",
+            "languageCode": "es",
             "url": "https://drive.google.com/file/d/1SEDu-wdXXsYXX48Ee3EKLg7YhdKyt72U/view?usp=sharing"
         }
     ],
     "aboutDescription": "I'm a mobile app developer passionate about turning ideas into user-centric applications.\nWith 3+ years of experience working with Flutter, I've built and shipped apps across diverse fields — from show quality and field operations to food tech and wholesale.\nMy interests also include embedded systems, cybersecurity, and game design, where I enjoy exploring the creative intersections between these domains.\nI'm driven by building meaningful products and contributing to innovative, challenging projects.",
     "experiences": [
         {
-            "role": "Mobile App Developer",
+            "role": "Full Stack Developer",
             "company": "Linnovlab",
             "description": "Development of a digital ecosystem for restaurants notably POS systems, kiosks, and dashboards, enabling a seamless user experience with real-time and offline features.",
             "isPresent": true,
@@ -114,7 +114,7 @@
             ]
         },
         {
-            "role": "Mobile App Developer",
+            "role": "Full Stack Developer",
             "company": "Walt Disney Imagineering",
             "description": "Development of an offline-first mobile snagging application for Disneyland Paris, streamlining information gathering for technical experts in the field and enhancing communication with maintenance services for problem-solving.",
             "isPresent": false,
@@ -181,7 +181,7 @@
             ]
         },
         {
-            "role": "Mobile App Developer",
+            "role": "Full Stack Developer",
             "company": "Solutions Multi Techniques",
             "description": "Development of a Progressive Web App for security system technicians, enabling them to generate comprehensive PDF quotes. This allows for the immediate delivery of quotes to clients after their visit, thereby increasing the conversion rate.",
             "startYear": 2022,
@@ -269,7 +269,7 @@
         {
             "name": "Portfolio",
             "description": "This open source project allows anyone to have an online portfolio in less than 10 minutes. It follows a riverpod-based architecture, using a feature-first approach for its structure. It is fully responsive and supports multiple themes as well as multiple languages.",
-            "url": "https://github.com/AladdineDev/portfolio#readme",
+            "url": "https://github.com/alvarohurtadobo/portfolio#readme",
             "icon": {
                 "codePoint": "0xefb7",
                 "fontFamily": "FontAwesome",
@@ -300,7 +300,7 @@
         {
             "name": "Learn Flow Backoffice",
             "description": "Learn Flow is a collaborative project focused on creating a solution that connects students and teachers. This is the back-office build for managers in the Learn Flow project. This Single-Page App enables them to monitor activity such as user traffic and invoices associated with their applications and users.",
-            "url": "https://github.com/AladdineDev/learnflow_backoffice#readme",
+            "url": "https://github.com/alvarohurtadobo/learnflow_backoffice#readme",
             "icon": {
                 "codePoint": "0xefb7",
                 "fontFamily": "FontAwesome",
@@ -325,7 +325,7 @@
         {
             "name": "GSB-Frais",
             "description": "The GSB-Frais project is a web-based expense management application developed for medical representatives and accountants at the fictional company GSB. It facilitates the entry and review of monthly reports by medical representatives, while enabling accountants to process them.",
-            "url": "https://github.com/AladdineDev/GSB-Frais#readme",
+            "url": "https://github.com/alvarohurtadobo/GSB-Frais#readme",
             "icon": {
                 "codePoint": "0xefb7",
                 "fontFamily": "FontAwesome",
@@ -378,18 +378,18 @@
             }
         },
         {
-            "code": "fr",
-            "name": "French",
-            "nativeName": "Français",
+            "code": "es",
+            "name": "Spain",
+            "nativeName": "Español",
             "icon": {
-                "assetName": "assets/icons/flags/france.svg"
+                "assetName": "assets/icons/flags/spain.svg"
             }
         }
     ],
     "bottomBanner": {
         "message": "Open source portfolio -",
         "displayLink": "Fork it",
-        "linkUrl": "https://github.com/AladdineDev/portfolio#readme"
+        "linkUrl": "https://github.com/alvarohurtadobo/portfolio#readme"
     },
     "portfolio": "Portfolio",
     "homeSectionTitle": "Home",

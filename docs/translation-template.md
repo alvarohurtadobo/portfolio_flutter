@@ -5,7 +5,7 @@ Here's the template of a JSON translation file:
 ```json
 {
   // Personal Information
-  "name": "Aladdine Abdou", // Full name (first name and last name)
+  "name": "Alvaro Hurtado Maldonado", // Full name (first name and last name)
   "description": "Software Imagineer", // Your professional title or role (e.g., Software Engineer)
   "subDescription": "Flutter Enthusiast", // A brief description of your interests or focus
 

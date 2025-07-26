@@ -1,6 +1,6 @@
 {
-    "name": "Aladdine Abdou",
-    "description": "Développeur Mobile",
+    "name": "Alvaro Hurtado",
+    "description": "Full Stack developer",
     "subDescription": "Passionné par Flutter & Python",
     "contacts": [
         {
@@ -50,7 +50,7 @@
             "url": "https://drive.google.com/file/d/1grh7cajOEiqXWx__dawOwq9WgGLb4mbn/view?usp=sharing"
         },
         {
-            "languageCode": "fr",
+            "languageCode": "es",
             "url": "https://drive.google.com/file/d/1SEDu-wdXXsYXX48Ee3EKLg7YhdKyt72U/view?usp=sharing"
         }
     ],
@@ -378,7 +378,7 @@
             }
         },
         {
-            "code": "fr",
+            "code": "es",
             "name": "Français",
             "nativeName": "Français",
             "icon": {
