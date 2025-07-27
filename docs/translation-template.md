@@ -13,7 +13,7 @@ Here's the template of a JSON translation file:
   "contacts": [
     {
       "tooltip": "Github", // Tooltip displayed when hovering or long-pressing the contact icon button
-      "url": "https://github.com/AladdineDev", // URL to open when the contact icon button is tapped, accepts various URL schemes (sms, tel, mailto, https, file)
+      "url": "https://github.com/alvarohurtadobo", // URL to open when the contact icon button is tapped, accepts various URL schemes (sms, tel, mailto, https, file)
       "icon": {
         "assetName": "assets/images/logos/software-development/github.svg", // SVG asset path, can be obtained from https://github.com/chouhan-rahul/icons_plus/tree/main/lib/src. If the codePoint and the fontFamily are used, this property must be null.
         "codePoint": "0xefb7", // Unicode code point for the icon prefixed with "0x" for hexadecimal, can be obtained from https://github.com/chouhan-rahul/icons_plus/tree/main/lib/src. If the assetName is used, this property must be null.
@@ -69,7 +69,7 @@ Here's the template of a JSON translation file:
     {
       "name": "Portfolio", // Name of the project
       "description": "Yes, it's THIS portfolio! \nThis project follows a Riverpod-based Architecture, using a feature-first approach for its structure. It is fully responsive, and supports multiple themes and languages.", // Description of the project
-      "url": "https://github.com/AladdineDev/portfolio#readme", // URL to open when the project card is tapped
+      "url": "https://github.com/alvarohurtadobo/portfolio_flutter", // URL to open when the project card is tapped
       "icon": {
         "assetName": "assets/images/logos/software-development/github.svg", // SVG asset path, can be obtained from https://github.com/chouhan-rahul/icons_plus/tree/main/lib/src. If the codePoint and the fontFamily are used, this property must be null.
         "codePoint": "0xefb7", // Unicode code point for the icon prefixed with "0x" for hexadecimal, can be obtained from https://github.com/chouhan-rahul/icons_plus/tree/main/lib/src. If the assetName is used, this property must be null.
@@ -106,7 +106,7 @@ Here's the template of a JSON translation file:
   "bottomBanner": {
     "message": "Open source portfolio -", // Text at the beginning of the "displayLink" part
     "displayLink": "Fork it!", // Text at the end of the "message" part
-    "linkUrl": "https://github.com/AladdineDev/portfolio" // URL to open when the "displayLink" part is tapped
+    "linkUrl": "https://github.com/alvarohurtadobo/portfolio_flutter" // URL to open when the "displayLink" part is tapped
   },
 
   // Navigation and Section Titles

@@ -1,11 +1,11 @@
 {
     "name": "Alvaro Hurtado",
-    "description": "Full Stack developer",
-    "subDescription": "Passionné par Flutter & Python",
+    "description": "Ingeniero Electrónico y desarrollador Full Stack",
+    "subDescription": "Apasionado por la ciencia y las soluciones de impacto",
     "contacts": [
         {
             "tooltip": "Github",
-            "url": "https://github.com/AladdineDev",
+            "url": "https://github.com/alvarohurtadobo",
             "icon": {
                 "codePoint": "0xefb7",
                 "fontFamily": "FontAwesome"
@@ -13,7 +13,7 @@
         },
         {
             "tooltip": "Twitter",
-            "url": "https://twitter.com/AladdineDev",
+            "url": "https://twitter.com/alvhuma",
             "icon": {
                 "codePoint": "0xf0ea",
                 "fontFamily": "FontAwesome"
@@ -21,23 +21,23 @@
         },
         {
             "tooltip": "LinkedIn",
-            "url": "https://www.linkedin.com/in/aladdine-dev",
+            "url": "https://www.linkedin.com/in/alvarohurtadobo",
             "icon": {
                 "codePoint": "0xeffb",
                 "fontFamily": "FontAwesome"
             }
         },
         {
-            "tooltip": "aladdine.dev@gmail.com",
-            "url": "mailto:aladdine.dev@gmail.com",
+            "tooltip": "a.hurtado.bo@gmail.com",
+            "url": "mailto:a.hurtado.bo@gmail.com",
             "icon": {
                 "codePoint": "0xeaad",
                 "fontFamily": "FontAwesome"
             }
         },
         {
-            "tooltip": "+33 7 82 54 34 70",
-            "url": "tel:+33782543470",
+            "tooltip": "+34 603739541",
+            "url": "tel:+34603739541",
             "icon": {
                 "codePoint": "0xecbb",
                 "fontFamily": "FontAwesome"
@@ -47,21 +47,21 @@
     "resumes": [
         {
             "languageCode": "en",
-            "url": "https://drive.google.com/file/d/1grh7cajOEiqXWx__dawOwq9WgGLb4mbn/view?usp=sharing"
+            "url": "https://drive.google.com/file/d/1hpo7Sk3virNMbkVUss515z3ZY9strN5S/view?usp=sharing"
         },
         {
             "languageCode": "es",
-            "url": "https://drive.google.com/file/d/1SEDu-wdXXsYXX48Ee3EKLg7YhdKyt72U/view?usp=sharing"
+            "url": "https://drive.google.com/file/d/14rUVB9omhr4dQYOZd5d4L4VW1niyWIv_/view?usp=sharing"
         }
     ],
-    "aboutDescription": "Développeur mobile passionné, je transforme les idées en applications centrées sur l'utilisateur.\nAvec plus de 3 ans d'expérience en Flutter, j'ai conçu et mis en production des applications dans divers secteurs tels que la qualité scénographique, le suivi de chantier, la restauration ou encore la vente en gros.\nJe m'intéresse également aux systèmes embarqués, à la cybersécurité et au game design, où j'explore les intersections créatives entre ces différents domaines.\nJ'aspire à mettre mes compétences au service de projets inspirants et challengeants.",
+    "aboutDescription": "Ingeniero Electrónico y desarrollador de software Full Stack con más de 7 años de experiencia desarrollando aplicaciones completas para startups, empresas locales e internacionales. Mis habilidades incluyen Flutter, Dart, Python, Django, Javascript, NodeJS, NestJS y ReactJS. Tengo amplia experiencia en el desarrollo de sistemas completos, desde el concepto hasta la publicación en producción y tiendas. Me gusta aprender nuevas habilidades y contribuir a la creación de soluciones industriales o de clase mundial combinando diferentes tecnologías para lograr soluciones creativas a grandes problemas.",
     "experiences": [
         {
-            "role": "Développeur Mobile",
-            "company": "Linnovlab",
-            "description": "Développement d'applications pour les restaurants (POS, kiosks, dashboards...) implémentant des fonctionnalités en temps réel et hors-ligne pour une expérience utilisateur fluide.",
+            "role": "Ingeniero de Integración",
+            "company": "Leartiker",
+            "description": " Integrar maquinaria industrial, software y bases de datos con el fin de crear soluciones personalizadas y generar efectividad en la línea de investigación",
             "isPresent": true,
-            "startYear": 2023,
+            "startYear": 2025,
             "endYear": 2025,
             "technologies": [
                 {
@@ -77,12 +77,6 @@
                     }
                 },
                 {
-                    "name": "GraphQL",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/graphql.svg"
-                    }
-                },
-                {
                     "name": "PostgreSQL",
                     "icon": {
                         "assetName": "assets/icons/software-development/postgresql.svg"
@@ -95,21 +89,16 @@
                     }
                 },
                 {
-                    "name": "AWS",
+                    "name": "Python",
                     "icon": {
-                        "codePoint": "0xeed1",
-                        "fontFamily": "BoxIcons"
+                        "assetName": "assets/icons/software-development/python.svg"
                     }
                 }
             ],
             "links": [
                 {
-                    "url": "https://linnovlab.com",
-                    "display": "Linnovlab"
-                },
-                {
-                    "url": "https://apps.apple.com/fr/app/caisse-digital-foody/id6664054501",
-                    "display": "Caisse Digital Foody - iOS"
+                    "url": "https://leartiker.com",
+                    "display": "Leartiker"
                 }
             ]
         },
@@ -269,7 +258,7 @@
         {
             "name": "Portfolio",
             "description": "Ce projet open source permet à toute personne de disposer d'un portfolio en ligne en moins de 10 minutes. Il adopte une architecture basée sur Riverpod en suivant une approche feature-first pour sa structure. Il est entièrement responsive, et prend en charge plusieurs thèmes ainsi que plusieurs langues.",
-            "url": "https://github.com/AladdineDev/portfolio#readme",
+            "url": "https://github.com/alvarohurtadobo/portfolio_flutter",
             "icon": {
                 "codePoint": "0xefb7",
                 "fontFamily": "FontAwesome",
@@ -300,7 +289,7 @@
         {
             "name": "Learn Flow Backoffice",
             "description": "Learn Flow est un projet de groupe visant à créer une solution de mise en relation d'élèves et d'enseignants. Il s'agit du back-office conçu pour les managers du projet Learn Flow. Cette Single-Page App leur permet de surveiller l'activité de leurs applications et utilisateurs (trafic, factures...).",
-            "url": "https://github.com/AladdineDev/learnflow_backoffice#readme",
+            "url": "https://github.com/alvarohurtadobo/learnflow_backoffice#readme",
             "icon": {
                 "codePoint": "0xefb7",
                 "fontFamily": "FontAwesome",
@@ -325,7 +314,7 @@
         {
             "name": "GSB-Frais",
             "description": "GSB-Frais est une application web de gestion des frais, développée pour les délégués médicaux et les comptables de l'entreprise fictive GSB. Elle facilite la saisie et la vérification des rapports mensuels des délégués médicaux, tout en permettant aux comptables de les traiter.",
-            "url": "https://github.com/AladdineDev/GSB-Frais#readme",
+            "url": "https://github.com/alvarohurtadobo/GSB-Frais#readme",
             "icon": {
                 "codePoint": "0xefb7",
                 "fontFamily": "FontAwesome",
@@ -389,7 +378,7 @@
     "bottomBanner": {
         "message": "Portfolio open source -",
         "displayLink": "Forkez-le",
-        "linkUrl": "https://github.com/AladdineDev/portfolio#readme"
+        "linkUrl": "https://github.com/alvarohurtadobo/portfolio_flutter"
     },
     "portfolio": "Portfolio",
     "homeSectionTitle": "Accueil",
