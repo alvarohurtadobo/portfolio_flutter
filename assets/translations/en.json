@@ -1,393 +1,429 @@
 {
-    "name": "Alvaro Hurtado",
-    "description": "Electronics Engineer and Full Stack Developer",
-    "subDescription": "Passionate about science and impact solutions",
-    "contacts": [
-        {
-            "tooltip": "Github",
-            "url": "https://github.com/alvarohurtadobo",
-            "icon": {
-                "codePoint": "0xefb7",
-                "fontFamily": "FontAwesome"
-            }
-        },
-        {
-            "tooltip": "Twitter",
-            "url": "https://twitter.com/alvarohurtadobo",
-            "icon": {
-                "codePoint": "0xf0ea",
-                "fontFamily": "FontAwesome"
-            }
-        },
-        {
-            "tooltip": "LinkedIn",
-            "url": "https://www.linkedin.com/in/alvarohurtadobo",
-            "icon": {
-                "codePoint": "0xeffb",
-                "fontFamily": "FontAwesome"
-            }
-        },
-        {
-            "tooltip": "a.hurtado.bo@gmail.com",
-            "url": "mailto:a.hurtado.bo@gmail.com",
-            "icon": {
-                "codePoint": "0xeaad",
-                "fontFamily": "FontAwesome"
-            }
-        },
-        {
-            "tooltip": "+34 603739541",
-            "url": "tel:+34603739541",
-            "icon": {
-                "codePoint": "0xecbb",
-                "fontFamily": "FontAwesome"
-            }
-        }
-    ],
-    "resumes": [
-        {
-            "languageCode": "en",
-            "url": "https://drive.google.com/file/d/1hpo7Sk3virNMbkVUss515z3ZY9strN5S/view?usp=sharing"
-        },
-        {
-            "languageCode": "es",
-            "url": "https://drive.google.com/file/d/14rUVB9omhr4dQYOZd5d4L4VW1niyWIv_/view?usp=sharing"
-        }
-    ],
-    "aboutDescription": "Electronics Engineer and full stack software developer with 7+ years of experience developing entire applications for local and international companies. My stack is Flutter, Dart, Django, Python, NodeJS, Express, NestJS,  Javascript, Typescript, and ReactJS. I have strong experience in the development of massive applications that positively impact companies or lives of multiple users. I would like to contribute to creating world-class solutions combining different tech stacks for achieving creative solutions to huge problems and keep learning new skills.",
-    "experiences": [
-        {
-            "role": "Integration Engineer",
-            "company": "Leartiker",
-            "description": "Integrate industrial machinery and software to their database in order to build custom solutions and bring efficiency to their production pipeline",
-            "isPresent": true,
-            "startYear": 2025,
-            "endYear": 2025,
-            "technologies": [
-                {
-                    "name": "Flutter",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/flutter.svg"
-                    }
-                },
-                {
-                    "name": "Dart",
-                    "icon": {
-                        "assetName": "assets/icons/other/dart.svg"
-                    }
-                },
-                {
-                    "name": "PostgreSQL",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/postgresql.svg"
-                    }
-                },
-                {
-                    "name": "Docker",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/docker.svg"
-                    }
-                },
-                {
-                    "name": "Python",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/python.svg"
-                    }
-                }
-            ],
-            "links": [
-                {
-                    "url": "https://leartiker.com",
-                    "display": "Leartiker"
-                }
-            ]
-        },
-        {
-            "role": "Full Stack Developer",
-            "company": "Walt Disney Imagineering",
-            "description": "Development of an offline-first mobile snagging application for Disneyland Paris, streamlining information gathering for technical experts in the field and enhancing communication with maintenance services for problem-solving.",
-            "isPresent": false,
-            "startYear": 2022,
-            "endYear": 2023,
-            "technologies": [
-                {
-                    "name": "Flutter",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/flutter.svg"
-                    }
-                },
-                {
-                    "name": "Dart",
-                    "icon": {
-                        "assetName": "assets/icons/other/dart.svg"
-                    }
-                },
-                {
-                    "name": "Django",
-                    "icon": {
-                        "codePoint": "0xeee7",
-                        "fontFamily": "BoxIcons"
-                    }
-                },
-                {
-                    "name": "Python",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/python.svg"
-                    }
-                },
-                {
-                    "name": "PostgreSQL",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/postgresql.svg"
-                    }
-                },
-                {
-                    "name": "SQLite",
-                    "icon": {
-                        "codePoint": "0xe944",
-                        "fontFamily": "OctIcons"
-                    }
-                },
-                {
-                    "name": "Docker",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/docker.svg"
-                    }
-                },
-                {
-                    "name": "AWS",
-                    "icon": {
-                        "codePoint": "0xeed1",
-                        "fontFamily": "BoxIcons"
-                    }
-                }
-            ],
-            "links": [
-                {
-                    "url": "https://sites.disney.com/waltdisneyimagineering/",
-                    "display": "Walt Disney Imagineering"
-                }
-            ]
-        },
-        {
-            "role": "Full Stack Developer",
-            "company": "Solutions Multi Techniques",
-            "description": "Development of a Progressive Web App for security system technicians, enabling them to generate comprehensive PDF quotes. This allows for the immediate delivery of quotes to clients after their visit, thereby increasing the conversion rate.",
-            "startYear": 2022,
-            "startMonth": 1,
-            "endYear": 2022,
-            "endMonth": 2,
-            "technologies": [
-                {
-                    "name": "Flutter",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/flutter.svg"
-                    }
-                },
-                {
-                    "name": "Dart",
-                    "icon": {
-                        "assetName": "assets/icons/other/dart.svg"
-                    }
-                },
-                {
-                    "name": "Firebase",
-                    "icon": {
-                        "assetName": "assets/icons/other/firebase.svg"
-                    }
-                }
-            ],
-            "links": [
-                {
-                    "url": "https://www.smt-alarme-videosurveillance.com",
-                    "display": "Solutions Multi Techniques"
-                }
-            ]
-        },
-        {
-            "role": "Web Developer",
-            "company": "Association FAIRE",
-            "description": "Development of the association's website, in collaboration with a group of developers. It provides visitors with the opportunity to learn more about the association and become members.\nTo date, the website has attracted over 10,000 visits.",
-            "startYear": 2021,
-            "startMonth": 5,
-            "endYear": 2021,
-            "endMonth": 6,
-            "technologies": [
-                {
-                    "name": "HTML",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/html-5.svg"
-                    }
-                },
-                {
-                    "name": "CSS",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/css3.svg"
-                    }
-                },
-                {
-                    "name": "Javascript",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/javascript.svg"
-                    }
-                },
-                {
-                    "name": "PHP",
-                    "icon": {
-                        "codePoint": "0xef29",
-                        "fontFamily": "BoxIcons"
-                    }
-                },
-                {
-                    "name": "MariaDB",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/mariadb.svg"
-                    }
-                }
-            ],
-            "links": [
-                {
-                    "url": "https://www.association-faire.fr",
-                    "display": "Association FAIRE"
-                }
-            ]
-        }
-    ],
-    "present": "Present",
-    "projects": [
-        {
-            "name": "Portfolio",
-            "description": "This open source project allows anyone to have an online portfolio in less than 10 minutes. It follows a riverpod-based architecture, using a feature-first approach for its structure. It is fully responsive and supports multiple themes as well as multiple languages.",
-            "url": "https://github.com/alvarohurtadobo/portfolio#readme",
-            "icon": {
-                "codePoint": "0xefb7",
-                "fontFamily": "FontAwesome",
-                "color": "0xffffffff"
-            },
-            "screenshotPath": "assets/images/portfolio.png",
-            "technologies": [
-                {
-                    "name": "Flutter",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/flutter.svg"
-                    }
-                },
-                {
-                    "name": "Dart",
-                    "icon": {
-                        "assetName": "assets/icons/other/dart.svg"
-                    }
-                }
-            ],
-            "links": [
-                {
-                    "url": "https://brittanychiang.com",
-                    "display": "Inspired by Brittany Chiang"
-                }
-            ]
-        },
-        {
-            "name": "Learn Flow Backoffice",
-            "description": "Learn Flow is a collaborative project focused on creating a solution that connects students and teachers. This is the back-office build for managers in the Learn Flow project. This Single-Page App enables them to monitor activity such as user traffic and invoices associated with their applications and users.",
-            "url": "https://github.com/alvarohurtadobo/learnflow_backoffice#readme",
-            "icon": {
-                "codePoint": "0xefb7",
-                "fontFamily": "FontAwesome",
-                "color": "0xffffffff"
-            },
-            "screenshotPath": "assets/images/learnflow-backoffice.png",
-            "technologies": [
-                {
-                    "name": "Flutter",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/flutter.svg"
-                    }
-                },
-                {
-                    "name": "Dart",
-                    "icon": {
-                        "assetName": "assets/icons/other/dart.svg"
-                    }
-                }
-            ]
-        },
-        {
-            "name": "GSB-Frais",
-            "description": "The GSB-Frais project is a web-based expense management application developed for medical representatives and accountants at the fictional company GSB. It facilitates the entry and review of monthly reports by medical representatives, while enabling accountants to process them.",
-            "url": "https://github.com/alvarohurtadobo/GSB-Frais#readme",
-            "icon": {
-                "codePoint": "0xefb7",
-                "fontFamily": "FontAwesome",
-                "color": "0xffffffff"
-            },
-            "screenshotPath": "assets/images/gsb-frais.png",
-            "technologies": [
-                {
-                    "name": "Symfony",
-                    "icon": {
-                        "codePoint": "0xf0ab",
-                        "fontFamily": "FontAwesome"
-                    }
-                },
-                {
-                    "name": "PHP",
-                    "icon": {
-                        "codePoint": "0xef29",
-                        "fontFamily": "BoxIcons"
-                    }
-                },
-                {
-                    "name": "Bootstrap",
-                    "icon": {
-                        "assetName": "assets/icons/other/bootstrap.svg"
-                    }
-                },
-                {
-                    "name": "MariaDB",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/mariadb.svg"
-                    }
-                },
-                {
-                    "name": "Docker",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/docker.svg"
-                    }
-                }
-            ]
-        }
-    ],
-    "languages": [
-        {
-            "code": "en",
-            "name": "English",
-            "nativeName": "English",
-            "icon": {
-                "assetName": "assets/icons/flags/united-states-of-america.svg"
-            }
-        },
-        {
-            "code": "es",
-            "name": "Spain",
-            "nativeName": "Español",
-            "icon": {
-                "assetName": "assets/icons/flags/spain.svg"
-            }
-        }
-    ],
-    "bottomBanner": {
-        "message": "Open source portfolio -",
-        "displayLink": "Fork it",
-        "linkUrl": "https://github.com/alvarohurtadobo/portfolio#readme"
+  "name": "Alvaro Hurtado",
+  "description": "Electronics Engineer and Full Stack Developer",
+  "subDescription": "Passionate about science and impact solutions",
+  "contacts": [
+    {
+      "tooltip": "Github",
+      "url": "https://github.com/alvarohurtadobo",
+      "icon": {
+        "codePoint": "0xefb7",
+        "fontFamily": "FontAwesome"
+      }
     },
-    "portfolio": "Portfolio",
-    "homeSectionTitle": "Home",
-    "aboutSectionTitle": "About",
-    "aboutSectionTitleAlt": "About Me",
-    "experienceSectionTitle": "Experience",
-    "projectsSectionTitle": "Projects",
-    "resume": "Resume",
-    "downloadResume": "Download resume",
-    "openUrlError": "Could not open the url",
-    "unknownLanguageError": "Language unknown"
+    {
+      "tooltip": "Twitter",
+      "url": "https://twitter.com/alvhuma",
+      "icon": {
+        "codePoint": "0xf0ea",
+        "fontFamily": "FontAwesome"
+      }
+    },
+    {
+      "tooltip": "LinkedIn",
+      "url": "https://www.linkedin.com/in/alvarohurtadobo",
+      "icon": {
+        "codePoint": "0xeffb",
+        "fontFamily": "FontAwesome"
+      }
+    },
+    {
+      "tooltip": "a.hurtado.bo@gmail.com",
+      "url": "mailto:a.hurtado.bo@gmail.com",
+      "icon": {
+        "codePoint": "0xeaad",
+        "fontFamily": "FontAwesome"
+      }
+    },
+    {
+      "tooltip": "+34 603739541",
+      "url": "tel:+34603739541",
+      "icon": {
+        "codePoint": "0xecbb",
+        "fontFamily": "FontAwesome"
+      }
+    }
+  ],
+  "resumes": [
+    {
+      "languageCode": "en",
+      "url": "https://drive.google.com/file/d/1hpo7Sk3virNMbkVUss515z3ZY9strN5S/view?usp=sharing"
+    },
+    {
+      "languageCode": "es",
+      "url": "https://drive.google.com/file/d/14rUVB9omhr4dQYOZd5d4L4VW1niyWIv_/view?usp=sharing"
+    }
+  ],
+  "aboutDescription": "Electronics Engineer and full stack software developer with 7+ years of experience developing entire applications for local and international companies. My stack is Flutter, Dart, Django, Python, NodeJS, Express, NestJS,  Javascript, Typescript, and ReactJS. I have strong experience in the development of massive applications that positively impact companies or lives of multiple users. I would like to contribute to creating world-class solutions combining different tech stacks for achieving creative solutions to huge problems and keep learning new skills.",
+  "experiences": [
+    {
+      "role": "Integration Engineer",
+      "company": "Leartiker",
+      "description": "Integrate industrial machinery and software to their databases to build custom solutions and improve production pipeline efficiency.",
+      "isPresent": false,
+      "startYear": 2025,
+      "endYear": 2025,
+      "technologies": [
+        {
+          "name": "Flutter",
+          "icon": {
+            "assetName": "assets/icons/software-development/flutter.svg"
+          }
+        },
+        {
+          "name": "Dart",
+          "icon": { "assetName": "assets/icons/other/dart.svg" }
+        },
+        {
+          "name": "Python",
+          "icon": {
+            "assetName": "assets/icons/software-development/python.svg"
+          }
+        }
+      ],
+      "links": [{ "url": "https://leartiker.com", "display": "Leartiker" }]
+    },
+    {
+      "role": "Flutter Developer",
+      "company": "Singular Agency",
+      "description": "Maintain, create and develop new features for multiple Flutter mobile apps published on the App Store and Play Store.",
+      "isPresent": true,
+      "startYear": 2024,
+      "endYear": null,
+      "technologies": [
+        {
+          "name": "Flutter",
+          "icon": {
+            "assetName": "assets/icons/software-development/flutter.svg"
+          }
+        },
+        {
+          "name": "Dart",
+          "icon": { "assetName": "assets/icons/other/dart.svg" }
+        },
+        {
+          "name": "Codemagic",
+          "icon": { "assetName": "assets/icons/other/codemagic.svg" }
+        }
+      ],
+      "links": []
+    },
+    {
+      "role": "Frontend Developer",
+      "company": "IKA Platform",
+      "description": "Design and maintain a web and mobile productivity app with mathematical algorithms for 2D/3D animations in Flutter.",
+      "isPresent": false,
+      "startYear": 2023,
+      "endYear": 2024,
+      "technologies": [
+        {
+          "name": "Flutter",
+          "icon": {
+            "assetName": "assets/icons/software-development/flutter.svg"
+          }
+        },
+        {
+          "name": "Dart",
+          "icon": { "assetName": "assets/icons/other/dart.svg" }
+        },
+        {
+          "name": "Three Dart",
+          "icon": { "assetName": "assets/icons/other/threedart.svg" }
+        }
+      ],
+      "links": []
+    },
+    {
+      "role": "Flutter/NodeJS Developer",
+      "company": "Ifinca",
+      "description": "Reverse engineering, maintenance and new feature development for a mobile Flutter app and NodeJS backend.",
+      "isPresent": false,
+      "startYear": 2022,
+      "endYear": 2023,
+      "technologies": [
+        {
+          "name": "Flutter",
+          "icon": {
+            "assetName": "assets/icons/software-development/flutter.svg"
+          }
+        },
+        {
+          "name": "NodeJS",
+          "icon": {
+            "assetName": "assets/icons/software-development/nodejs.svg"
+          }
+        },
+        {
+          "name": "Express",
+          "icon": {
+            "assetName": "assets/icons/software-development/express.svg"
+          }
+        }
+      ],
+      "links": []
+    },
+    {
+      "role": "YLAI Fellow",
+      "company": "SIA Partners",
+      "description": "Research on software integration opportunities and new markets in Latin America.",
+      "isPresent": false,
+      "startYear": 2022,
+      "endYear": 2022,
+      "technologies": [
+        {
+          "name": "Python",
+          "icon": {
+            "assetName": "assets/icons/software-development/python.svg"
+          }
+        },
+        {
+          "name": "BeautifulSoup",
+          "icon": {
+            "assetName": "assets/icons/software-development/beautifulsoup.svg"
+          }
+        },
+        {
+          "name": "PyTorch",
+          "icon": {
+            "assetName": "assets/icons/software-development/pytorch.svg"
+          }
+        }
+      ],
+      "links": []
+    },
+    {
+      "role": "Full Stack Lead Developer",
+      "company": "On The Fly",
+      "description": "Design, development and maintenance of applications for clients using Flutter, NodeJS and NestJS.",
+      "isPresent": false,
+      "startYear": 2021,
+      "endYear": 2022,
+      "technologies": [
+        {
+          "name": "Flutter",
+          "icon": {
+            "assetName": "assets/icons/software-development/flutter.svg"
+          }
+        },
+        {
+          "name": "NodeJS",
+          "icon": {
+            "assetName": "assets/icons/software-development/nodejs.svg"
+          }
+        },
+        {
+          "name": "NestJS",
+          "icon": {
+            "assetName": "assets/icons/software-development/nestjs.svg"
+          }
+        },
+        {
+          "name": "Docker",
+          "icon": {
+            "assetName": "assets/icons/software-development/docker.svg"
+          }
+        }
+      ],
+      "links": []
+    },
+    {
+      "role": "Founder and Developer",
+      "company": "Deep Micro Systems",
+      "description": "Development of intelligent traffic control systems and computer vision for smart cities.",
+      "isPresent": false,
+      "startYear": 2017,
+      "endYear": 2020,
+      "technologies": [
+        {
+          "name": "Flutter",
+          "icon": {
+            "assetName": "assets/icons/software-development/flutter.svg"
+          }
+        },
+        {
+          "name": "TensorFlow",
+          "icon": {
+            "assetName": "assets/icons/software-development/tensorflow.svg"
+          }
+        },
+        {
+          "name": "PyTorch",
+          "icon": {
+            "assetName": "assets/icons/software-development/pytorch.svg"
+          }
+        },
+        {
+          "name": "Raspberry Pi",
+          "icon": { "assetName": "assets/icons/other/raspberrypi.svg" }
+        }
+      ],
+      "links": []
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Orgánica",
+      "description": "Design and development of full solutions for clients using Flutter, NodeJS and ReactJS.",
+      "isPresent": false,
+      "startYear": 2016,
+      "endYear": 2020,
+      "technologies": [
+        {
+          "name": "Flutter",
+          "icon": {
+            "assetName": "assets/icons/software-development/flutter.svg"
+          }
+        },
+        {
+          "name": "NodeJS",
+          "icon": {
+            "assetName": "assets/icons/software-development/nodejs.svg"
+          }
+        },
+        {
+          "name": "ReactJS",
+          "icon": {
+            "assetName": "assets/icons/software-development/reactjs.svg"
+          }
+        }
+      ],
+      "links": []
+    }
+  ],
+  "present": "Present",
+  "projects": [
+    {
+      "name": "Portfolio",
+      "description": "This open source project allows anyone to have an online portfolio in less than 10 minutes. It follows a riverpod-based architecture, using a feature-first approach for its structure. It is fully responsive and supports multiple themes as well as multiple languages.",
+      "url": "https://github.com/alvarohurtadobo/portfolio#readme",
+      "icon": {
+        "codePoint": "0xefb7",
+        "fontFamily": "FontAwesome",
+        "color": "0xffffffff"
+      },
+      "screenshotPath": "assets/images/portfolio.png",
+      "technologies": [
+        {
+          "name": "Flutter",
+          "icon": {
+            "assetName": "assets/icons/software-development/flutter.svg"
+          }
+        },
+        {
+          "name": "Dart",
+          "icon": {
+            "assetName": "assets/icons/other/dart.svg"
+          }
+        }
+      ],
+      "links": [
+        {
+          "url": "https://brittanychiang.com",
+          "display": "Inspired by Brittany Chiang"
+        }
+      ]
+    },
+    {
+      "name": "Learn Flow Backoffice",
+      "description": "Learn Flow is a collaborative project focused on creating a solution that connects students and teachers. This is the back-office build for managers in the Learn Flow project. This Single-Page App enables them to monitor activity such as user traffic and invoices associated with their applications and users.",
+      "url": "https://github.com/alvarohurtadobo/learnflow_backoffice#readme",
+      "icon": {
+        "codePoint": "0xefb7",
+        "fontFamily": "FontAwesome",
+        "color": "0xffffffff"
+      },
+      "screenshotPath": "assets/images/learnflow-backoffice.png",
+      "technologies": [
+        {
+          "name": "Flutter",
+          "icon": {
+            "assetName": "assets/icons/software-development/flutter.svg"
+          }
+        },
+        {
+          "name": "Dart",
+          "icon": {
+            "assetName": "assets/icons/other/dart.svg"
+          }
+        }
+      ]
+    },
+    {
+      "name": "GSB-Frais",
+      "description": "The GSB-Frais project is a web-based expense management application developed for medical representatives and accountants at the fictional company GSB. It facilitates the entry and review of monthly reports by medical representatives, while enabling accountants to process them.",
+      "url": "https://github.com/alvarohurtadobo/GSB-Frais#readme",
+      "icon": {
+        "codePoint": "0xefb7",
+        "fontFamily": "FontAwesome",
+        "color": "0xffffffff"
+      },
+      "screenshotPath": "assets/images/gsb-frais.png",
+      "technologies": [
+        {
+          "name": "Symfony",
+          "icon": {
+            "codePoint": "0xf0ab",
+            "fontFamily": "FontAwesome"
+          }
+        },
+        {
+          "name": "PHP",
+          "icon": {
+            "codePoint": "0xef29",
+            "fontFamily": "BoxIcons"
+          }
+        },
+        {
+          "name": "Bootstrap",
+          "icon": {
+            "assetName": "assets/icons/other/bootstrap.svg"
+          }
+        },
+        {
+          "name": "MariaDB",
+          "icon": {
+            "assetName": "assets/icons/software-development/mariadb.svg"
+          }
+        },
+        {
+          "name": "Docker",
+          "icon": {
+            "assetName": "assets/icons/software-development/docker.svg"
+          }
+        }
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English",
+      "nativeName": "English",
+      "icon": {
+        "assetName": "assets/icons/flags/united-states-of-america.svg"
+      }
+    },
+    {
+      "code": "es",
+      "name": "Spain",
+      "nativeName": "Español",
+      "icon": {
+        "assetName": "assets/icons/flags/spain.svg"
+      }
+    }
+  ],
+  "bottomBanner": {
+    "message": "Open source portfolio -",
+    "displayLink": "Fork it",
+    "linkUrl": "https://github.com/alvarohurtadobo/portfolio#readme"
+  },
+  "portfolio": "Portfolio",
+  "homeSectionTitle": "Home",
+  "aboutSectionTitle": "About",
+  "aboutSectionTitleAlt": "About Me",
+  "experienceSectionTitle": "Experience",
+  "projectsSectionTitle": "Projects",
+  "resume": "Resume",
+  "downloadResume": "Download resume",
+  "openUrlError": "Could not open the url",
+  "unknownLanguageError": "Language unknown"
 }

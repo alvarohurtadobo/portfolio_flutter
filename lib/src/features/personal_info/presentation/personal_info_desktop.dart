@@ -28,14 +28,14 @@ class PersonalInfoDesktop extends ConsumerWidget {
           tr(LocaleKeys.description),
           style: Theme.of(context).textTheme.titleLarge,
         ),
-        gapH8,
+        gapH4,
         Text(
           tr(LocaleKeys.subDescription),
           style: Theme.of(context).textTheme.bodyLarge,
         ),
         _buildResumeButton(ref, resumes: resumes.toList()),
         const Spacer(),
-        gapH8,
+        gapH4,
         ContactBar(contacts: contacts.toList()),
       ],
     );
@@ -45,7 +45,7 @@ class PersonalInfoDesktop extends ConsumerWidget {
     if (resumes.isEmpty) return const SizedBox.shrink();
     return Column(
       children: [
-        gapH40,
+        gapH24,
         Padding(
           padding: const EdgeInsets.symmetric(vertical: 24),
           child: ResumeButton(resumes: resumes),
