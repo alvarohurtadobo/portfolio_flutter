@@ -36,8 +36,8 @@
       }
     },
     {
-      "tooltip": "+34 603739541",
-      "url": "tel:+34603739541",
+      "tooltip": "+34 00000000",
+      "url": "tel:+3400000000",
       "icon": {
         "codePoint": "0xecbb",
         "fontFamily": "FontAwesome"
@@ -54,10 +54,10 @@
       "url": "https://drive.google.com/file/d/14rUVB9omhr4dQYOZd5d4L4VW1niyWIv_/view?usp=sharing"
     }
   ],
-  "aboutDescription": "Electronics Engineer and full stack software developer with 7+ years of experience developing entire applications for local and international companies. My stack is Flutter, Dart, Django, Python, NodeJS, Express, NestJS,  Javascript, Typescript, and ReactJS. I have strong experience in the development of massive applications that positively impact companies or lives of multiple users. I would like to contribute to creating world-class solutions combining different tech stacks for achieving creative solutions to huge problems and keep learning new skills.",
+  "aboutDescription": "Electronics Engineer and Full Stack software developer with 7+ years of experience developing entire applications for local and international companies. My stack is Flutter, Dart, Django, Python, NodeJS, Express, NestJS,  Javascript, Typescript, and ReactJS. I have strong experience in the development of massive applications that positively impact companies or lives of multiple users. I would like to contribute to creating world-class solutions combining different tech stacks for achieving creative solutions to huge problems and keep learning new skills.",
   "experiences": [
     {
-      "role": "Integration Engineer",
+      "role": "Consultant Integration Engineer",
       "company": "Leartiker",
       "description": "Integrate industrial machinery and software to their databases to build custom solutions and improve production pipeline efficiency.",
       "isPresent": false,
@@ -71,8 +71,16 @@
           }
         },
         {
-          "name": "Dart",
-          "icon": { "assetName": "assets/icons/other/dart.svg" }
+          "name": "MySQL",
+          "icon": {
+            "assetName": "assets/icons/software-development/mysql.svg"
+          }
+        },
+        {
+          "name": "Docker",
+          "icon": {
+            "assetName": "assets/icons/software-development/docker.svg"
+          }
         },
         {
           "name": "Python",
@@ -102,14 +110,14 @@
           "icon": { "assetName": "assets/icons/other/dart.svg" }
         },
         {
-          "name": "Codemagic",
-          "icon": { "assetName": "assets/icons/other/codemagic.svg" }
+          "name": "Firebase",
+          "icon": { "assetName": "assets/icons/other/firebase.svg" }
         }
       ],
       "links": []
     },
     {
-      "role": "Frontend Developer",
+      "role": "Frontend and algorithms Developer",
       "company": "IKA Platform",
       "description": "Design and maintain a web and mobile productivity app with mathematical algorithms for 2D/3D animations in Flutter.",
       "isPresent": false,
@@ -127,11 +135,11 @@
           "icon": { "assetName": "assets/icons/other/dart.svg" }
         },
         {
-          "name": "Three Dart",
-          "icon": { "assetName": "assets/icons/other/threedart.svg" }
+          "name": "Firebase",
+          "icon": { "assetName": "assets/icons/other/firebase.svg" }
         }
       ],
-      "links": []
+      "links": [{ "url": "https://beta.ika.ai", "display": "Ika Platform" }]
     },
     {
       "role": "Flutter/NodeJS Developer",
@@ -148,15 +156,13 @@
           }
         },
         {
+          "name": "Dart",
+          "icon": { "assetName": "assets/icons/other/dart.svg" }
+        },
+        {
           "name": "NodeJS",
           "icon": {
             "assetName": "assets/icons/software-development/nodejs.svg"
-          }
-        },
-        {
-          "name": "Express",
-          "icon": {
-            "assetName": "assets/icons/software-development/express.svg"
           }
         }
       ],
@@ -177,9 +183,9 @@
           }
         },
         {
-          "name": "BeautifulSoup",
+          "name": "Anaconda",
           "icon": {
-            "assetName": "assets/icons/software-development/beautifulsoup.svg"
+            "assetName": "assets/icons/software-development/anaconda.svg"
           }
         },
         {
@@ -189,7 +195,7 @@
           }
         }
       ],
-      "links": []
+      "links": [{ "url": "www.sia-partners.com", "display": "Sia Partners" }]
     },
     {
       "role": "Full Stack Lead Developer",
@@ -218,16 +224,22 @@
           }
         },
         {
+          "name": "Python",
+          "icon": {
+            "assetName": "assets/icons/software-development/python.svg"
+          }
+        },
+        {
           "name": "Docker",
           "icon": {
             "assetName": "assets/icons/software-development/docker.svg"
           }
         }
       ],
-      "links": []
+      "links": [{ "url": "https://kubilabs.com/", "display": "Sia Partners" }]
     },
     {
-      "role": "Founder and Developer",
+      "role": "Co-Founder and Developer",
       "company": "Deep Micro Systems",
       "description": "Development of intelligent traffic control systems and computer vision for smart cities.",
       "isPresent": false,
@@ -241,15 +253,21 @@
           }
         },
         {
-          "name": "TensorFlow",
-          "icon": {
-            "assetName": "assets/icons/software-development/tensorflow.svg"
-          }
-        },
-        {
           "name": "PyTorch",
           "icon": {
             "assetName": "assets/icons/software-development/pytorch.svg"
+          }
+        },
+        {
+          "name": "OpenCV",
+          "icon": {
+            "assetName": "assets/icons/software-development/opencv.svg"
+          }
+        },
+        {
+          "name": "AWS",
+          "icon": {
+            "assetName": "assets/icons/software-development/aws.svg"
           }
         },
         {
@@ -292,15 +310,15 @@
   "present": "Present",
   "projects": [
     {
-      "name": "Portfolio",
-      "description": "This open source project allows anyone to have an online portfolio in less than 10 minutes. It follows a riverpod-based architecture, using a feature-first approach for its structure. It is fully responsive and supports multiple themes as well as multiple languages.",
-      "url": "https://github.com/alvarohurtadobo/portfolio#readme",
+      "name": "AI-based Project Management Platform",
+      "description": "3D project management platform with voice command support. Built using Flutter and Three.dart, deployed on tablets, web, Windows, and MacOS.",
+      "url": "https://beta.ika.ai/#/launch",
       "icon": {
         "codePoint": "0xefb7",
         "fontFamily": "FontAwesome",
         "color": "0xffffffff"
       },
-      "screenshotPath": "assets/images/portfolio.png",
+      "screenshotPath": "assets/images/project_management_platform.png",
       "technologies": [
         {
           "name": "Flutter",
@@ -309,29 +327,28 @@
           }
         },
         {
-          "name": "Dart",
+          "name": "Three Dart",
+          "icon": { "assetName": "assets/icons/other/dart.svg" }
+        },
+        {
+          "name": "Go",
           "icon": {
-            "assetName": "assets/icons/other/dart.svg"
+            "assetName": "assets/icons/software-development/golang.svg"
           }
         }
       ],
-      "links": [
-        {
-          "url": "https://brittanychiang.com",
-          "display": "Inspired by Brittany Chiang"
-        }
-      ]
+      "links": []
     },
     {
-      "name": "Learn Flow Backoffice",
-      "description": "Learn Flow is a collaborative project focused on creating a solution that connects students and teachers. This is the back-office build for managers in the Learn Flow project. This Single-Page App enables them to monitor activity such as user traffic and invoices associated with their applications and users.",
-      "url": "https://github.com/alvarohurtadobo/learnflow_backoffice#readme",
+      "name": "Central Maderas",
+      "description": "QR management system for the wood industry in Colombia. Includes Android app and admin panel for web and Windows using Django backend.",
+      "url": "https://www.centraldemaderas.com/",
       "icon": {
         "codePoint": "0xefb7",
         "fontFamily": "FontAwesome",
         "color": "0xffffffff"
       },
-      "screenshotPath": "assets/images/learnflow-backoffice.png",
+      "screenshotPath": "assets/images/central_maderas.png",
       "technologies": [
         {
           "name": "Flutter",
@@ -340,57 +357,195 @@
           }
         },
         {
-          "name": "Dart",
+          "name": "Django",
           "icon": {
-            "assetName": "assets/icons/other/dart.svg"
+            "assetName": "assets/icons/software-development/django.svg"
+          }
+        },
+        {
+          "name": "SQLite",
+          "icon": {
+            "assetName": "assets/icons/software-development/sqlite.svg"
           }
         }
-      ]
+      ],
+      "links": []
     },
     {
-      "name": "GSB-Frais",
-      "description": "The GSB-Frais project is a web-based expense management application developed for medical representatives and accountants at the fictional company GSB. It facilitates the entry and review of monthly reports by medical representatives, while enabling accountants to process them.",
-      "url": "https://github.com/alvarohurtadobo/GSB-Frais#readme",
+      "name": "Vialika",
+      "description": "Traffic enforcement system for Bolivia and Mexico using FFMPEG for video processing and multi-platform support (Web, Windows, MacOS, Linux).",
+      "url": "www.deepmicrosystems.com",
       "icon": {
         "codePoint": "0xefb7",
         "fontFamily": "FontAwesome",
         "color": "0xffffffff"
       },
-      "screenshotPath": "assets/images/gsb-frais.png",
+      "screenshotPath": "assets/images/vialika.png",
       "technologies": [
         {
-          "name": "Symfony",
+          "name": "Flutter",
           "icon": {
-            "codePoint": "0xf0ab",
-            "fontFamily": "FontAwesome"
+            "assetName": "assets/icons/software-development/flutter.svg"
           }
         },
         {
-          "name": "PHP",
+          "name": "PyTorch",
           "icon": {
-            "codePoint": "0xef29",
-            "fontFamily": "BoxIcons"
+            "assetName": "assets/icons/software-development/pytorch.svg"
           }
         },
         {
-          "name": "Bootstrap",
+          "name": "Opencv",
           "icon": {
-            "assetName": "assets/icons/other/bootstrap.svg"
+            "assetName": "assets/icons/software-development/opencv.svg"
+          }
+        },
+        {
+          "name": "AWS",
+          "icon": {
+            "assetName": "assets/icons/software-development/aws.svg"
+          }
+        }
+      ],
+      "links": []
+    },
+    {
+      "name": "Control Tower",
+      "description": "POS system for restaurants. Core part of On The Fly product ecosystem, deployed on mobile, desktop and web platforms.",
+      "url": "https://apps.apple.com/us/app/otf-control-tower/id1561391924",
+      "icon": {
+        "codePoint": "0xefb7",
+        "fontFamily": "FontAwesome",
+        "color": "0xffffffff"
+      },
+      "screenshotPath": "assets/images/control_tower.png",
+      "technologies": [
+        {
+          "name": "Flutter",
+          "icon": {
+            "assetName": "assets/icons/software-development/flutter.svg"
+          }
+        },
+        {
+          "name": "NodeJS",
+          "icon": {
+            "assetName": "assets/icons/software-development/nodejs.svg"
           }
         },
         {
           "name": "MariaDB",
+          "icon": { "assetName": "assets/icons/database/mariadb.svg" }
+        }
+      ],
+      "links": []
+    },
+    {
+      "name": "On The Fly Core",
+      "description": "System migration from legacy PHP to modern architecture using NestJS and Python with PostgreSQL and MariaDB support.",
+      "url": "https://ontheflypos.com/",
+      "icon": {
+        "codePoint": "0xefb7",
+        "fontFamily": "FontAwesome",
+        "color": "0xffffffff"
+      },
+      "screenshotPath": "assets/images/on_the_fly_core.png",
+      "technologies": [
+        {
+          "name": "NestJS",
           "icon": {
-            "assetName": "assets/icons/software-development/mariadb.svg"
+            "assetName": "assets/icons/software-development/nestjs.svg"
           }
         },
         {
-          "name": "Docker",
+          "name": "Python",
           "icon": {
-            "assetName": "assets/icons/software-development/docker.svg"
+            "assetName": "assets/icons/software-development/python.svg"
           }
         }
-      ]
+      ],
+      "links": []
+    },
+    {
+      "name": "Bolivia Denuncia",
+      "description": "Government reporting system. Developed backend and back office with NodeJS and Flutter for desktop and mobile.",
+      "url": "https://boliviadenuncia.com.bo/",
+      "icon": {
+        "codePoint": "0xefb7",
+        "fontFamily": "FontAwesome",
+        "color": "0xffffffff"
+      },
+      "screenshotPath": "assets/images/bolivia_denuncia.png",
+      "technologies": [
+        {
+          "name": "Flutter",
+          "icon": {
+            "assetName": "assets/icons/software-development/flutter.svg"
+          }
+        },
+        {
+          "name": "NodeJS",
+          "icon": {
+            "assetName": "assets/icons/software-development/nodejs.svg"
+          }
+        },
+        {
+          "name": "ReactJS",
+          "icon": {
+            "assetName": "assets/icons/software-development/reactjs.svg"
+          }
+        }
+      ],
+      "links": []
+    },
+    {
+      "name": "Puerta a Puerta",
+      "description": "Delivery system for Bolivia. Integrated with Laravel backend and Firebase services (Push Notifications, Auth, Maps).",
+      "url": "https://play.google.com/store/apps/details?id=bo.com.disser.delivery",
+      "icon": {
+        "codePoint": "0xefb7",
+        "fontFamily": "FontAwesome",
+        "color": "0xffffffff"
+      },
+      "screenshotPath": "assets/images/puerta_a_puerta.png",
+      "technologies": [
+        {
+          "name": "Flutter",
+          "icon": {
+            "assetName": "assets/icons/software-development/flutter.svg"
+          }
+        },
+        {
+          "name": "Firebase",
+          "icon": { "assetName": "assets/icons/cloud/firebase.svg" }
+        }
+      ],
+      "links": []
+    },
+    {
+      "name": "Pest Control",
+      "description": "HR and inventory management app for internal use in Malta. Built in Flutter with Meteor backend.",
+      "url": "alvarohurtado.com",
+      "icon": {
+        "codePoint": "0xefb7",
+        "fontFamily": "FontAwesome",
+        "color": "0xffffffff"
+      },
+      "screenshotPath": "assets/images/pest_control.png",
+      "technologies": [
+        {
+          "name": "Flutter",
+          "icon": {
+            "assetName": "assets/icons/software-development/flutter.svg"
+          }
+        },
+        {
+          "name": "Meteor",
+          "icon": {
+            "assetName": "assets/icons/software-development/meteor.svg"
+          }
+        }
+      ],
+      "links": []
     }
   ],
   "languages": [
@@ -412,9 +567,9 @@
     }
   ],
   "bottomBanner": {
-    "message": "Open source portfolio -",
+    "message": "Open source portfolio",
     "displayLink": "Fork it",
-    "linkUrl": "https://github.com/alvarohurtadobo/portfolio#readme"
+    "linkUrl": "https://github.com/alvarohurtadobo/portfolio_flutter"
   },
   "portfolio": "Portfolio",
   "homeSectionTitle": "Home",

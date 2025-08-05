@@ -33,6 +33,7 @@ class PersonalInfoRepository {
     final contacts = jsonContacts.map((jsonContact) {
       return Contact.fromJson(jsonContact);
     }).toList();
+    contacts.removeLast(); // Improve the way to remove phone number
     return contacts;
   }
 }
