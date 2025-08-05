@@ -1,0 +1,596 @@
+{
+  "name": "Alvaro Hurtado",
+  "description": "Ingeniero Electrónico y desarrollador Full Stack",
+  "subDescription": "Apasionado por la ciencia y las soluciones de impacto",
+  "contacts": [
+    {
+      "tooltip": "Github",
+      "url": "https://github.com/alvarohurtadobo",
+      "icon": {
+        "codePoint": "0xefb7",
+        "fontFamily": "FontAwesome"
+      }
+    },
+    {
+      "tooltip": "Twitter",
+      "url": "https://twitter.com/alvhuma",
+      "icon": {
+        "codePoint": "0xf0ea",
+        "fontFamily": "FontAwesome"
+      }
+    },
+    {
+      "tooltip": "LinkedIn",
+      "url": "https://www.linkedin.com/in/alvarohurtadobo",
+      "icon": {
+        "codePoint": "0xeffb",
+        "fontFamily": "FontAwesome"
+      }
+    },
+    {
+      "tooltip": "a.hurtado.bo@gmail.com",
+      "url": "mailto:a.hurtado.bo@gmail.com",
+      "icon": {
+        "codePoint": "0xeaad",
+        "fontFamily": "FontAwesome"
+      }
+    },
+    {
+      "tooltip": "+34 00000000",
+      "url": "tel:+3400000000",
+      "icon": {
+        "codePoint": "0xecbb",
+        "fontFamily": "FontAwesome"
+      }
+    }
+  ],
+  "resumes": [
+    {
+      "languageCode": "en",
+      "url": "https://drive.google.com/file/d/1hpo7Sk3virNMbkVUss515z3ZY9strN5S/view?usp=sharing"
+    },
+    {
+      "languageCode": "es",
+      "url": "https://drive.google.com/file/d/14rUVB9omhr4dQYOZd5d4L4VW1niyWIv_/view?usp=sharing"
+    }
+  ],
+  "aboutDescription": "Ingeniero Electrónico y desarrollador de software Full Stack con más de 7 años de experiencia desarrollando aplicaciones completas para startups, empresas locales e internacionales. Mis habilidades incluyen Flutter, Dart, Python, Django, Javascript, NodeJS, NestJS y ReactJS. Tengo amplia experiencia en el desarrollo de sistemas completos, desde el concepto hasta la publicación en producción y tiendas. Me gusta aprender nuevas habilidades y contribuir a la creación de soluciones industriales o de clase mundial combinando diferentes tecnologías para lograr soluciones creativas a grandes problemas.",
+  "experiences": [
+    {
+      "role": "Ingeniero consultor de Integración",
+      "company": "Leartiker",
+      "description": " Integrar maquinaria industrial, software y bases de datos con el fin de crear soluciones personalizadas y generar efectividad en la línea de investigación",
+      "isPresent": true,
+      "startYear": 2025,
+      "endYear": 2025,
+      "technologies": [
+        {
+          "name": "Flutter",
+          "icon": {
+            "assetName": "assets/icons/software-development/flutter.svg"
+          }
+        },
+        {
+          "name": "MySQL",
+          "icon": {
+            "assetName": "assets/icons/software-development/mysql.svg"
+          }
+        },
+        {
+          "name": "Docker",
+          "icon": {
+            "assetName": "assets/icons/software-development/docker.svg"
+          }
+        },
+        {
+          "name": "Python",
+          "icon": {
+            "assetName": "assets/icons/software-development/python.svg"
+          }
+        }
+      ],
+      "links": [
+        {
+          "url": "https://leartiker.com",
+          "display": "Leartiker"
+        }
+      ]
+    },
+    {
+      "role": "Desarrollador Flutter",
+      "company": "Singular Agency",
+      "description": "Crear, mantener y desarrollar nuevas aplicaciones y funcionalidades para múltiples aplicaciones móviles Flutter publicadas en tiendas de aplicaciones.",
+      "description_en": "Maintain, create and develop new features for multiple Flutter mobile apps published on the App Store and Play Store.",
+      "isPresent": false,
+      "startYear": 2024,
+      "endYear": 2025,
+      "technologies": [
+        {
+          "name": "Flutter",
+          "icon": {
+            "assetName": "assets/icons/software-development/flutter.svg"
+          }
+        },
+        {
+          "name": "Dart",
+          "icon": { "assetName": "assets/icons/other/dart.svg" }
+        },
+        {
+          "name": "Firebase",
+          "icon": { "assetName": "assets/icons/other/firebase.svg" }
+        }
+      ],
+      "links": []
+    },
+    {
+      "role": "Desarrollador Frontend y de Algoritmos",
+      "company": "IKA Platform",
+      "description": "Diseñar y mantener una aplicación web y móvil de productividad con algoritmos matemáticos para animaciones 2D/3D en Flutter.",
+      "description_en": "Design and maintain a web and mobile productivity app with mathematical algorithms for 2D/3D animations in Flutter.",
+      "isPresent": false,
+      "startYear": 2023,
+      "endYear": 2024,
+      "technologies": [
+        {
+          "name": "Flutter",
+          "icon": {
+            "assetName": "assets/icons/software-development/flutter.svg"
+          }
+        },
+        {
+          "name": "Dart",
+          "icon": { "assetName": "assets/icons/other/dart.svg" }
+        },
+        {
+          "name": "Firebase",
+          "icon": { "assetName": "assets/icons/other/firebase.svg" }
+        }
+      ],
+      "links": [{ "url": "https://beta.ika.ai", "display": "Ika Platform" }]
+    },
+    {
+      "role": "Desarrollador Flutter/NodeJS",
+      "company": "Ifinca",
+      "description": "Reingeniería, mantenimiento y desarrollo de nuevas funcionalidades en una aplicación móvil y su backend NodeJS.",
+      "description_en": "Reverse engineering, maintenance and new feature development for a mobile Flutter app and NodeJS backend.",
+      "isPresent": false,
+      "startYear": 2022,
+      "endYear": 2023,
+      "technologies": [
+        {
+          "name": "Flutter",
+          "icon": {
+            "assetName": "assets/icons/software-development/flutter.svg"
+          }
+        },
+        {
+          "name": "Dart",
+          "icon": { "assetName": "assets/icons/other/dart.svg" }
+        },
+        {
+          "name": "NodeJS",
+          "icon": {
+            "assetName": "assets/icons/software-development/nodejs.svg"
+          }
+        }
+      ],
+      "links": []
+    },
+    {
+      "role": "Investigador YLAI",
+      "company": "SIA Partners",
+      "description": "Investigación de oportunidades de integración de software y análisis de mercados en América Latina.",
+      "description_en": "Research on software integration opportunities and new markets in Latin America.",
+      "isPresent": false,
+      "startYear": 2022,
+      "endYear": 2022,
+      "technologies": [
+        {
+          "name": "Python",
+          "icon": {
+            "assetName": "assets/icons/software-development/python.svg"
+          }
+        },
+        {
+          "name": "Anaconda",
+          "icon": {
+            "assetName": "assets/icons/software-development/anaconda.svg"
+          }
+        },
+        {
+          "name": "PyTorch",
+          "icon": {
+            "assetName": "assets/icons/software-development/pytorch.svg"
+          }
+        }
+      ],
+      "links": [{ "url": "www.sia-partners.com", "display": "Sia Partners" }]
+    },
+    {
+      "role": "Líder de Desarrollo Full Stack",
+      "company": "On The Fly",
+      "description": "Diseño, desarrollo y mantenimiento de aplicaciones para clientes en Flutter, NodeJS y NestJS.",
+      "description_en": "Design, development and maintenance of applications for clients using Flutter, NodeJS and NestJS.",
+      "isPresent": false,
+      "startYear": 2021,
+      "endYear": 2022,
+      "technologies": [
+        {
+          "name": "Flutter",
+          "icon": {
+            "assetName": "assets/icons/software-development/flutter.svg"
+          }
+        },
+        {
+          "name": "NodeJS",
+          "icon": {
+            "assetName": "assets/icons/software-development/nodejs.svg"
+          }
+        },
+        {
+          "name": "NestJS",
+          "icon": {
+            "assetName": "assets/icons/software-development/nestjs.svg"
+          }
+        },
+        {
+          "name": "Python",
+          "icon": {
+            "assetName": "assets/icons/software-development/python.svg"
+          }
+        },
+        {
+          "name": "Docker",
+          "icon": {
+            "assetName": "assets/icons/software-development/docker.svg"
+          }
+        }
+      ],
+      "links": [{ "url": "https://kubilabs.com/", "display": "Sia Partners" }]
+    },
+    {
+      "role": "Co-Fundador y Desarrollador",
+      "company": "Deep Micro Systems",
+      "description": "Desarrollo de sistemas de control de tráfico inteligente y visión por computador aplicados a ciudades.",
+      "description_en": "Development of intelligent traffic control systems and computer vision for smart cities.",
+      "isPresent": false,
+      "startYear": 2017,
+      "endYear": 2020,
+      "technologies": [
+        {
+          "name": "Flutter",
+          "icon": {
+            "assetName": "assets/icons/software-development/flutter.svg"
+          }
+        },
+        {
+          "name": "PyTorch",
+          "icon": {
+            "assetName": "assets/icons/software-development/pytorch.svg"
+          }
+        },
+        {
+          "name": "OpenCV",
+          "icon": {
+            "assetName": "assets/icons/software-development/opencv.svg"
+          }
+        },
+        {
+          "name": "AWS",
+          "icon": {
+            "assetName": "assets/icons/software-development/aws.svg"
+          }
+        },
+        {
+          "name": "Raspberry Pi",
+          "icon": { "assetName": "assets/icons/other/raspberrypi.svg" }
+        }
+      ],
+      "links": []
+    },
+    {
+      "role": "Ingeniero de Software",
+      "company": "Orgánica",
+      "description": "Diseño y desarrollo de soluciones completas para clientes usando Flutter, NodeJS y ReactJS.",
+      "description_en": "Design and development of full solutions for clients using Flutter, NodeJS and ReactJS.",
+      "isPresent": false,
+      "startYear": 2016,
+      "endYear": 2020,
+      "technologies": [
+        {
+          "name": "Flutter",
+          "icon": {
+            "assetName": "assets/icons/software-development/flutter.svg"
+          }
+        },
+        {
+          "name": "NodeJS",
+          "icon": {
+            "assetName": "assets/icons/software-development/nodejs.svg"
+          }
+        },
+        {
+          "name": "ReactJS",
+          "icon": {
+            "assetName": "assets/icons/software-development/reactjs.svg"
+          }
+        }
+      ],
+      "links": []
+    }
+  ],
+  "present": "Presente",
+  "projects": [
+    {
+      "name": "Plataforma de Gestión de Proyectos basada en IA",
+      "description": "Plataforma de gestión de proyectos en 3D con soporte de comandos por voz. Desarrollada con Flutter y Three.dart para tablets, web, Windows y MacOS.",
+      "url": "https://beta.ika.ai/#/launch",
+      "icon": {
+        "codePoint": "0xefb7",
+        "fontFamily": "FontAwesome",
+        "color": "0xffffffff"
+      },
+      "screenshotPath": "assets/images/project_management_platform.png",
+      "technologies": [
+        {
+          "name": "Flutter",
+          "icon": {
+            "assetName": "assets/icons/software-development/flutter.svg"
+          }
+        },
+        {
+          "name": "Three Dart",
+          "icon": { "assetName": "assets/icons/other/dart.svg" }
+        },
+        {
+          "name": "Go",
+          "icon": {
+            "assetName": "assets/icons/software-development/golang.svg"
+          }
+        }
+      ],
+      "links": []
+    },
+    {
+      "name": "Central Maderas",
+      "description": "Sistema de gestión por códigos QR para la industria maderera en Colombia. Incluye aplicación Android y panel administrador web y para Windows con backend Django.",
+      "url": "https://www.centraldemaderas.com/",
+      "icon": {
+        "codePoint": "0xefb7",
+        "fontFamily": "FontAwesome",
+        "color": "0xffffffff"
+      },
+      "screenshotPath": "assets/images/central_maderas.png",
+      "technologies": [
+        {
+          "name": "Flutter",
+          "icon": {
+            "assetName": "assets/icons/software-development/flutter.svg"
+          }
+        },
+        {
+          "name": "Django",
+          "icon": {
+            "assetName": "assets/icons/software-development/django.svg"
+          }
+        },
+        {
+          "name": "SQLite",
+          "icon": {
+            "assetName": "assets/icons/software-development/sqlite.svg"
+          }
+        }
+      ],
+      "links": []
+    },
+    {
+      "name": "Vialika",
+      "description": "Sistema de control de tráfico para Bolivia y México usando FFMPEG para procesar video. Compatible con Web, Windows, MacOS y Linux.",
+      "url": "www.deepmicrosystems.com",
+      "icon": {
+        "codePoint": "0xefb7",
+        "fontFamily": "FontAwesome",
+        "color": "0xffffffff"
+      },
+      "screenshotPath": "assets/images/vialika.png",
+      "technologies": [
+        {
+          "name": "Flutter",
+          "icon": {
+            "assetName": "assets/icons/software-development/flutter.svg"
+          }
+        },
+        {
+          "name": "PyTorch",
+          "icon": {
+            "assetName": "assets/icons/software-development/pytorch.svg"
+          }
+        },
+        {
+          "name": "Opencv",
+          "icon": {
+            "assetName": "assets/icons/software-development/opencv.svg"
+          }
+        },
+        {
+          "name": "AWS",
+          "icon": {
+            "assetName": "assets/icons/software-development/aws.svg"
+          }
+        }
+      ],
+      "links": []
+    },
+    {
+      "name": "Control Tower",
+      "description": "Sistema POS para restaurantes. Parte del núcleo de productos de On The Fly, desplegado en plataformas móviles, de escritorio y web.",
+      "url": "https://apps.apple.com/us/app/otf-control-tower/id1561391924",
+      "icon": {
+        "codePoint": "0xefb7",
+        "fontFamily": "FontAwesome",
+        "color": "0xffffffff"
+      },
+      "screenshotPath": "assets/images/control_tower.png",
+      "technologies": [
+        {
+          "name": "Flutter",
+          "icon": {
+            "assetName": "assets/icons/software-development/flutter.svg"
+          }
+        },
+        {
+          "name": "NodeJS",
+          "icon": {
+            "assetName": "assets/icons/software-development/nodejs.svg"
+          }
+        },
+        {
+          "name": "MariaDB",
+          "icon": { "assetName": "assets/icons/database/mariadb.svg" }
+        }
+      ],
+      "links": []
+    },
+    {
+      "name": "On The Fly Core",
+      "description": "Migración del sistema antiguo en PHP a una arquitectura moderna usando NestJS y Python con soporte para PostgreSQL y MariaDB.",
+      "url": "https://ontheflypos.com/",
+      "icon": {
+        "codePoint": "0xefb7",
+        "fontFamily": "FontAwesome",
+        "color": "0xffffffff"
+      },
+      "screenshotPath": "assets/images/on_the_fly_core.png",
+      "technologies": [
+        {
+          "name": "NestJS",
+          "icon": {
+            "assetName": "assets/icons/software-development/nestjs.svg"
+          }
+        },
+        {
+          "name": "Python",
+          "icon": {
+            "assetName": "assets/icons/software-development/python.svg"
+          }
+        }
+      ],
+      "links": []
+    },
+    {
+      "name": "Bolivia Denuncia",
+      "description": "Sistema de denuncias gubernamental. Backend y back office desarrollados con NodeJS y Flutter para escritorio y móvil.",
+      "url": "https://boliviadenuncia.com.bo/",
+      "icon": {
+        "codePoint": "0xefb7",
+        "fontFamily": "FontAwesome",
+        "color": "0xffffffff"
+      },
+      "screenshotPath": "assets/images/bolivia_denuncia.png",
+      "technologies": [
+        {
+          "name": "Flutter",
+          "icon": {
+            "assetName": "assets/icons/software-development/flutter.svg"
+          }
+        },
+        {
+          "name": "NodeJS",
+          "icon": {
+            "assetName": "assets/icons/software-development/nodejs.svg"
+          }
+        },
+        {
+          "name": "ReactJS",
+          "icon": {
+            "assetName": "assets/icons/software-development/reactjs.svg"
+          }
+        }
+      ],
+      "links": []
+    },
+    {
+      "name": "Puerta a Puerta",
+      "description": "Sistema de reparto en Bolivia. Integración con backend Laravel y servicios de Firebase (Notificaciones, Autenticación, Mapas).",
+      "url": "https://play.google.com/store/apps/details?id=bo.com.disser.delivery",
+      "icon": {
+        "codePoint": "0xefb7",
+        "fontFamily": "FontAwesome",
+        "color": "0xffffffff"
+      },
+      "screenshotPath": "assets/images/puerta_a_puerta.png",
+      "technologies": [
+        {
+          "name": "Flutter",
+          "icon": {
+            "assetName": "assets/icons/software-development/flutter.svg"
+          }
+        },
+        {
+          "name": "Firebase",
+          "icon": { "assetName": "assets/icons/cloud/firebase.svg" }
+        }
+      ],
+      "links": []
+    },
+    {
+      "name": "Pest Control",
+      "description": "App de gestión de RRHH e inventario para uso interno en Malta. Desarrollada con Flutter y backend Meteor.",
+      "url": "alvarohurtado.com",
+      "icon": {
+        "codePoint": "0xefb7",
+        "fontFamily": "FontAwesome",
+        "color": "0xffffffff"
+      },
+      "screenshotPath": "assets/images/pest_control.png",
+      "technologies": [
+        {
+          "name": "Flutter",
+          "icon": {
+            "assetName": "assets/icons/software-development/flutter.svg"
+          }
+        },
+        {
+          "name": "Meteor",
+          "icon": {
+            "assetName": "assets/icons/software-development/meteor.svg"
+          }
+        }
+      ],
+      "links": []
+    }
+  ],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English",
+      "nativeName": "English",
+      "icon": {
+        "assetName": "assets/icons/flags/united-states-of-america.svg"
+      }
+    },
+    {
+      "code": "es",
+      "name": "Spanish",
+      "nativeName": "Español",
+      "icon": {
+        "assetName": "assets/icons/flags/spain.svg"
+      }
+    }
+  ],
+  "bottomBanner": {
+    "message": "Portfolio Alvaro Hurtado",
+    "displayLink": "Fork it",
+    "linkUrl": "https://github.com/alvarohurtadobo/portfolio_flutter"
+  },
+  "portfolio": "Portafolio",
+  "homeSectionTitle": "Inicio",
+  "aboutSectionTitle": "Acerca de",
+  "aboutSectionTitleAlt": "Acerca de mí",
+  "experienceSectionTitle": "Experiencia",
+  "projectsSectionTitle": "Proyectos",
+  "resume": "CV",
+  "downloadResume": "Descargar CV",
+  "openUrlError": "No se pudo abrir la url",
+  "unknownLanguageError": "Idioma desconocido"
+}
