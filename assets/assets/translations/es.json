@@ -283,7 +283,7 @@
         },
         {
           "name": "Raspberry Pi",
-          "icon": { "assetName": "assets/icons/other/raspberrypi.svg" }
+          "icon": { "assetName": "assets/icons/software-development/raspberrypi.svg" }
         }
       ],
       "links": []
@@ -321,6 +321,49 @@
   ],
   "present": "Presente",
   "projects": [
+    {
+      "name": "Wake Ciencia y Meditación, EEUU",
+      "description": "Crear y mantener nuevas funciones a la aplicación de Wake, ciencia y meditación. Incluyendo Authenticación con redes sociales, gestión de Firebase functions, auth, realtime database, storage, hosting, manejo de frontend en Flutter y NextJS (React JS)",
+      "url": "https://apps.apple.com/es/app/wake-ciencia-y-meditaci%C3%B3n/id6446121301",
+      "icon": {
+        "codePoint": "0xefb7",
+        "fontFamily": "FontAwesome",
+        "color": "0xffffffff"
+      },
+      "screenshotPath": "assets/images/wake.png",
+      "technologies": [
+        {
+          "name": "Flutter",
+          "icon": {
+            "assetName": "assets/icons/software-development/flutter.svg"
+          }
+        },
+        {
+          "name": "Next JS",
+          "icon": { "assetName": "assets/icons/other/nextjs.svg" }
+        },
+        {
+          "name": "Nest JS",
+          "icon": { "assetName": "assets/icons/other/nestjs.svg" }
+        },
+        {
+          "name": "Firebase",
+          "icon": {
+            "assetName": "assets/icons/software-development/firebase.svg"
+          }
+        }
+      ],
+      "links": [
+        {
+          "url": "https://apps.apple.com/es/app/wake-ciencia-y-meditaci%C3%B3n/id6446121301",
+          "display": "Wake iOS"
+        },
+        {
+          "url": "https://play.google.com/store/apps/details?id=com.wake.app&hl=en-US",
+          "display": "Wake Android"
+        }
+      ]
+    },
     {
       "name": "Plataforma de Gestión de Proyectos basada en IA",
       "description": "Plataforma de gestión de proyectos en 3D con soporte de comandos por voz. Desarrollada con Flutter y Three.dart para tablets, web, Windows y MacOS.",
