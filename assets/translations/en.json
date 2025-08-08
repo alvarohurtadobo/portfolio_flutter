@@ -60,7 +60,7 @@
       "role": "Consultant Integration Engineer",
       "company": "Leartiker",
       "description": "Integrate industrial machinery and software to their databases to build custom solutions and improve production pipeline efficiency.",
-      "isPresent": false,
+      "isPresent": true,
       "startYear": 2025,
       "endYear": 2025,
       "technologies": [
@@ -95,9 +95,9 @@
       "role": "Flutter Developer",
       "company": "Singular Agency",
       "description": "Maintain, create and develop new features for multiple Flutter mobile apps published on the App Store and Play Store.",
-      "isPresent": true,
+      "isPresent": false,
       "startYear": 2024,
-      "endYear": null,
+      "endYear": 2025,
       "technologies": [
         {
           "name": "Flutter",
@@ -272,7 +272,9 @@
         },
         {
           "name": "Raspberry Pi",
-          "icon": { "assetName": "assets/icons/software-development/raspberrypi.svg" }
+          "icon": {
+            "assetName": "assets/icons/software-development/raspberrypi.svg"
+          }
         }
       ],
       "links": []
@@ -309,6 +311,49 @@
   ],
   "present": "Present",
   "projects": [
+    {
+      "name": "Wake, science and meditation, EEUU",
+      "description": "Creating and maintaining new features for the Wake, science and meditation app. This includes social media authentication, Firebase function management, authentication, real-time databases, storage, hosting, and front-end management in Flutter and NextJS (React JS).",
+      "url": "https://apps.apple.com/es/app/wake-ciencia-y-meditaci%C3%B3n/id6446121301",
+      "icon": {
+        "codePoint": "0xefb7",
+        "fontFamily": "FontAwesome",
+        "color": "0xffffffff"
+      },
+      "screenshotPath": "assets/images/wake.png",
+      "technologies": [
+        {
+          "name": "Flutter",
+          "icon": {
+            "assetName": "assets/icons/software-development/flutter.svg"
+          }
+        },
+        {
+          "name": "Next JS",
+          "icon": { "assetName": "assets/icons/other/nextjs.svg" }
+        },
+        {
+          "name": "Nest JS",
+          "icon": { "assetName": "assets/icons/other/nestjs.svg" }
+        },
+        {
+          "name": "Firebase",
+          "icon": {
+            "assetName": "assets/icons/software-development/firebase.svg"
+          }
+        }
+      ],
+      "links": [
+        {
+          "url": "https://apps.apple.com/es/app/wake-ciencia-y-meditaci%C3%B3n/id6446121301",
+          "display": "Wake iOS"
+        },
+        {
+          "url": "https://play.google.com/store/apps/details?id=com.wake.app&hl=en-US",
+          "display": "Wake Android"
+        }
+      ]
+    },
     {
       "name": "AI-based Project Management Platform",
       "description": "3D project management platform with voice command support. Built using Flutter and Three.dart, deployed on tablets, web, Windows, and MacOS.",

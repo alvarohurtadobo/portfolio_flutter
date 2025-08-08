@@ -39,7 +39,7 @@ class MyAppBar extends ConsumerWidget {
                     children: [
                       const Icon(
                         IconData(
-                          0xedc3,
+                          405,
                           fontFamily: "FontAwesome",
                         ),
                       ),

@@ -14,12 +14,12 @@ void main() async {
   usePathUrlStrategy();
   GoogleFonts.config.allowRuntimeFetching = false;
   final supportedLocales = await AppLocalizations.supportedLocales();
-  print("Locales here::::");
-  print(supportedLocales);
-  for (var locale in supportedLocales) {
-    print(locale);
-    print(locale.languageCode);
-  }
+  // print("Locales here::::");
+  // print(supportedLocales);
+  // for (var locale in supportedLocales) {
+  //   print(locale);
+  //   print(locale.languageCode);
+  // }
   runApp(
     ProviderScope(
       child: AppStartupWidget(
