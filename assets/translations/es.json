@@ -283,7 +283,7 @@
         },
         {
           "name": "Raspberry Pi",
-          "icon": { "assetName": "assets/icons/other/raspberrypi.svg" }
+          "icon": { "assetName": "assets/icons/software-development/raspberrypi.svg" }
         }
       ],
       "links": []
