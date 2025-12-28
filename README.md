@@ -95,23 +95,32 @@ fvm flutter build web --release --no-tree-shake-icons
 
 **3. Backup build files:
 ```bash
+rm -rf ../portfolio_built
 mkdir ../portfolio_built
 cp -r build/web/* ../portfolio_built/
 ```
 
-**4. Switch to the gh-pages branch:**
+**4. Switch to the gh-pages branch and ensure updated:**
 ```bash
 git checkout gh-pages
+git pull origin gh-pages
 ```
 
-**5. Commit and push the changes:**
+**5. Update built in gh branch and delete backup:**
+```bash
+rm -rf * -y
+cp -r ../portfolio_built/ .
+rm -rf ../portfolio_built/
+```
+
+**6. Commit and push the changes:**
 ```bash
 git add .
 git commit -m "Deploy: Actualizar sitio desde main"
 git push origin gh-pages
 ```
 
-**6. Return to the main branch:**
+**7. Return to the main branch:**
 ```bash
 git checkout main
 ```
