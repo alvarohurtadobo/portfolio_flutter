@@ -1,3 +1,6 @@
+.fvmrc
+.vscode/**
+
 # Miscellaneous
 *.class
 *.log
@@ -48,3 +51,6 @@ app.*.map.json
 # Dart generated files
 *.g.dart
 *.freezed.dart
+
+# FVM Version Cache
+.fvm/
