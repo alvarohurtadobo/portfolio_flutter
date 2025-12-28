@@ -57,6 +57,37 @@
   "aboutDescription": "Electronics Engineer and Full Stack software developer with 7+ years of experience developing entire applications for local and international companies. My stack is Flutter, Dart, Django, Python, NodeJS, Express, NestJS,  Javascript, Typescript, and ReactJS. I have strong experience in the development of massive applications that positively impact companies or lives of multiple users. I would like to contribute to creating world-class solutions combining different tech stacks for achieving creative solutions to huge problems and keep learning new skills.",
   "experiences": [
     {
+      "role": "Flutter Developer",
+      "company": "Leenspace",
+      "description": "Design, migrate, create mathematical algorithms for a huge Super App using Flutter using Clean Architecture",
+      "isPresent": true,
+      "startYear": 2025,
+      "endYear": null,
+      "technologies": [
+        {
+          "name": "Flutter",
+          "icon": {
+            "assetName": "assets/icons/software-development/flutter.svg"
+          }
+        },
+        {
+          "name": "Dart",
+          "icon": { "assetName": "assets/icons/other/dart.svg" }
+        },
+        {
+          "name": "Firebase",
+          "icon": { "assetName": "assets/icons/other/firebase.svg" }
+        },
+        {
+          "name": "Azure and MS Teams",
+          "icon": {
+            "assetName": "assets/icons/other/azure-devops.svg"
+          }
+        }
+      ],
+      "links": []
+    },
+    {
       "role": "Consultant Integration Engineer",
       "company": "Leartiker",
       "description": "Integrate industrial machinery and software to their databases to build custom solutions and improve production pipeline efficiency.",
@@ -90,31 +121,6 @@
         }
       ],
       "links": [{ "url": "https://leartiker.com", "display": "Leartiker" }]
-    },
-    {
-      "role": "Flutter Developer",
-      "company": "Singular Agency",
-      "description": "Maintain, create and develop new features for multiple Flutter mobile apps published on the App Store and Play Store.",
-      "isPresent": true,
-      "startYear": 2024,
-      "endYear": null,
-      "technologies": [
-        {
-          "name": "Flutter",
-          "icon": {
-            "assetName": "assets/icons/software-development/flutter.svg"
-          }
-        },
-        {
-          "name": "Dart",
-          "icon": { "assetName": "assets/icons/other/dart.svg" }
-        },
-        {
-          "name": "Firebase",
-          "icon": { "assetName": "assets/icons/other/firebase.svg" }
-        }
-      ],
-      "links": []
     },
     {
       "role": "Frontend and algorithms Developer",
