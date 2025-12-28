@@ -73,6 +73,51 @@ Additionally for your first deployment, you'll need to select the proper GitHub 
 | ----------------------------------------------------------------------------------- | --------------------------------------------------- |
 | ![](./docs/images/github-pages-branch-none.png)                                     | ![](./docs/images/github-pages-branch-gh-pages.png) |
 
+### Manual Deployment to gh-pages
+
+If you prefer to deploy manually or need to update the `gh-pages` branch directly, follow these steps:
+
+**1. Ensure you're on the main branch with the latest changes:**
+```bash
+git checkout main
+git pull origin main
+```
+
+**2. Install dependencies and build the web app:**
+```bash
+fvm flutter clean
+fvm flutter pub get
+fvm flutter pub run build_runner build -d 
+fvm flutter build web --release --no-tree-shake-icons
+```
+
+> **Note:** The `--no-tree-shake-icons` flag is required because this project uses dynamic `IconData` instances loaded from JSON files.
+
+**3. Backup build files:
+```bash
+mkdir ../portfolio_built
+cp -r build/web/* ../portfolio_built/
+```
+
+**4. Switch to the gh-pages branch:**
+```bash
+git checkout gh-pages
+```
+
+**5. Commit and push the changes:**
+```bash
+git add .
+git commit -m "Deploy: Actualizar sitio desde main"
+git push origin gh-pages
+```
+
+**6. Return to the main branch:**
+```bash
+git checkout main
+```
+
+> **Tip:** You can create a `deploy.sh` script to automate this process. Make sure to use `fvm flutter` instead of `flutter` if you're using Flutter Version Manager (FVM).
+
 ## Personalization 🛠️
 
 <details>
