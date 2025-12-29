@@ -112,6 +112,16 @@ rm -rf * -y
 cp -r ../portfolio_built/ .
 rm -rf ../portfolio_built/
 ```
+Make sure git ignored files are not kept:
+```
+.DS_Store
+.dart_tool/
+.fvm/
+.fvmrc
+.last_build_id
+.vscode/
+deleted_files.txt
+```
 
 **6. Commit and push the changes:**
 ```bash
